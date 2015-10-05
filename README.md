@@ -1,4 +1,5 @@
-# Todo
+# TodoClone
+
 A todo list using API19
 
 ##Before next Monday (3/9)
